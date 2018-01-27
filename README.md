@@ -35,7 +35,7 @@ Navigate to http://localhost:8080 and you should see the following page:
 
 ## Project Structure
 
-The main entry of for the application is is `main.go`, where the configuration
+The main entry for the application is is `main.go`, where the configuration
 file is loaded, a database connection is created, and the application is started.
 
 The server-side code is located in `api/`:
